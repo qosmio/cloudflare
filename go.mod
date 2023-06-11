@@ -3,8 +3,8 @@ module github.com/qosmio/cloudflare
 go 1.20
 
 require (
-	github.com/caddyserver/caddy/v2 v2.7.0-beta.1.0.20230605073957-56af1ceb328d
-	github.com/libdns/cloudflare v0.1.1-0.20221006221909-9d3ab3c3cddd
+	github.com/caddyserver/caddy/v2 v2.6.4
+	github.com/qosmio/cloudflare-1 v0.1.1-0.20230611084433-641c60a83faa
 )
 
 require (

@@ -17,7 +17,7 @@ package cloudflare
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/cloudflare"
+	"github.com/qosmio/cloudflare-1"
 )
 
 // Provider wraps the provider implementation as a Caddy module.
